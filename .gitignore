@@ -102,3 +102,14 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Other files
+.expo/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build
+web-report/
