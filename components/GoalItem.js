@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet, View, Text } from 'react-native';
 
-const GoalItem = (props) => {
+const GoalItem = props => {
     return (
         <View style={styles.listItem}>
             <Text>{props.title}</Text>
